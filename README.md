@@ -81,7 +81,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/online-library.git
+git clone https://github.com/RizwanAhmed001/Online-Library-System.git
 cd online-library
 Install dependencies:
 
@@ -140,3 +140,6 @@ Redux Toolkit
 Vite
 
 CSS Modules / Custom CSS
+
+// Link of GitHub repository containing the project. 
+https://github.com/RizwanAhmed001/Online-Library-System
